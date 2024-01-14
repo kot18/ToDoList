@@ -1,0 +1,10 @@
+.mainForm {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 670px;
+    border-radius: 32px;
+    box-shadow: 0 0 4px 0 #00174726;
+    margin: 156px 256px;
+    background-color: #FFFFFF;
+}
